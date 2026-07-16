@@ -1,8 +1,8 @@
-# 🚀 **DevOps Project: ZOMATO Clone App Deployment**
+# **DevOps Project: ZOMATO Clone App Deployment**
 
 In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** using a variety of modern DevOps tools and services.
 
-## 🛠️ Tools & Services Used:
+##  Tools & Services Used:
 
 1. **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 2. **Jenkins** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -24,7 +24,7 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 
 ---
 
-### 📂 GitHub Repo Link:  
+### GitHub Repo Link:  
 [**ZOMATO Clone DevOps Project**](#)
 
 ### 📹 DevOps Project Video Link:  
@@ -35,15 +35,15 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 
 ---
 
-## 📂 Other DevOps Projects
+##  Other DevOps Projects
 
-### 🟠 **SWIGGY App Project**:  
+### **SWIGGY App Project**:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/x55z7rk0NAU)
 
-### 🔵 **SonarQube Video Link**:  
+###  **SonarQube Video Link**:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=sonarqube&logoColor=white)](https://youtu.be/ScdedztTaAU)
 
-### 🟡 **Nexus Video Link**:  
+###  **Nexus Video Link**:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=nexus&logoColor=white)](https://youtu.be/opJAfDOCZuI)
 
 ---
